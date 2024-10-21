@@ -23,7 +23,7 @@ In the rail fence cipher, the plaintext is written downwards and diagonally on s
 
 ## PROGRAM:
 
-```
+```c
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
