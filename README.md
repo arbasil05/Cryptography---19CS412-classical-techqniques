@@ -24,7 +24,7 @@ The Vigenere cipher is a method of encrypting alphabetic text by using a series 
 
 
 ## PROGRAM:
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
